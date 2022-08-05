@@ -1,0 +1,19 @@
+{
+  "name": "next_mfe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mowalky/next_mfe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mowalky/next_mfe/issues"
+  },
+  "homepage": "https://github.com/mowalky/next_mfe#readme"
+}
